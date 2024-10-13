@@ -1,0 +1,9 @@
+name: BountySystem
+version: '${project.version}'
+main: me.stormeddeeps.bountysystem.BountySystem
+api-version: '1.20'
+commands:
+  bounty:
+    description: Creates a bounty on a player
+  bountys:
+    description: Opens the bounty list
