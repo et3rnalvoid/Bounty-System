@@ -1,7 +1,7 @@
 ## **Bounty System**
 
 
-Bounty System is a highly beneficial plugin for SMPs, Lifesteal, MMORPG, and Survival servers! This Bounty System offers many beneficial features, like setting a bounty on someone and getting money as a reward for killing them.
+Bounty System is a highly beneficial plugin for SMPs, Lifesteal, MMORPG, and Survival servers! This Bounty System offers many beneficial features and runs using Vault & EssentialX, Features like setting a bounty on someone and getting money as a reward for killing them.
 
 ## **FEATURES**
 - Customized GUI to see concurrent bounties placed on players.
